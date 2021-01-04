@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace DecoratorMode
 {
-    class AbstractComponent
+    abstract class AbstractComponent
     {
+       public abstract void Operation();
+    }
+
+    class ConcreteComponent : AbstractComponent
+    {
+        public override void Operation()
+        {
+            Console.WriteLine("对象的操作");
+        }
     }
 }

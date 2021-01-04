@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3FBA896F-6D1C-41DD-A944-F736CDEF5DC4}</ProjectGuid>
+    <ProjectGuid>{1227D774-B02F-4936-AFB0-8D7E45415FA3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StrategyModel</RootNamespace>
-    <AssemblyName>StrategyModel</AssemblyName>
+    <RootNamespace>ProxyModel</RootNamespace>
+    <AssemblyName>ProxyModel</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Subject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
