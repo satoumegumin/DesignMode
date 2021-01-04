@@ -1,0 +1,7 @@
+E:\workMyself\DesignPattern\SimpleFactoryCal\bin\Debug\SimpleFactoryCal.exe.config
+E:\workMyself\DesignPattern\SimpleFactoryCal\bin\Debug\SimpleFactoryCal.exe
+E:\workMyself\DesignPattern\SimpleFactoryCal\bin\Debug\SimpleFactoryCal.pdb
+E:\workMyself\DesignPattern\SimpleFactoryCal\obj\Debug\SimpleFactoryCal.csprojAssemblyReference.cache
+E:\workMyself\DesignPattern\SimpleFactoryCal\obj\Debug\SimpleFactoryCal.csproj.CoreCompileInputs.cache
+E:\workMyself\DesignPattern\SimpleFactoryCal\obj\Debug\SimpleFactoryCal.exe
+E:\workMyself\DesignPattern\SimpleFactoryCal\obj\Debug\SimpleFactoryCal.pdb
